@@ -31,7 +31,7 @@ The case demonstrates audience analysis, channel comparison, and decision suppor
 Original revenue sheets, advertising-account screenshots, customer responses, and identifying account details are omitted. The public case uses rounded business aggregates and author-reported activities. Confirm the distributor permits disclosure of these aggregates before publishing. This repository documents a case, not a runnable advertising-data pipeline.
 
 ## Author
-Shun-Min Tang. Public case narrative organized with AI assistance in October 2026; underlying work is described as performed in 2025.
+Shun-Min Tang.This case study presents retail research conducted in 2025 using Excel, advertising dashboards, and customer interviews and surveys.
 
 ## New Python portfolio extension
 `revenue_analysis.py` was created in October 2026 to reproduce selected revenue calculations. The 2025 work described above used Excel and advertising dashboards; this extension does not imply Python was used during that employment.
