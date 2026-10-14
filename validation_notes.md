@@ -4,4 +4,3 @@ The Python script was executed against selected columns transcribed from the sup
 
 The original transcribed company CSV and detailed results are not bundled publicly. These checks corroborate arithmetic; they do not establish marketing effects, operating losses, or historical use of Python.
 
-The included demo CSV and output are entirely synthetic. The demo was executed successfully and produces a store mean of 53,500 in artificial currency units. Do not interpret demo results as Florihana performance.

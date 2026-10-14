@@ -38,9 +38,9 @@ Shun-Min Tang. Public case narrative organized with AI assistance in October 202
 
 The script validates month keys and revenue values, calculates online share and consecutive-month revenue changes, and computes the observed-store monthly mean while preserving blank months. It uses the Python standard library; no additional packages are required.
 
-### Try the synthetic demo
+### Run with authorized source data
 ```bash
-python3 revenue_analysis.py demo_monthly_revenue_SYNTHETIC.csv --output demo_output_SYNTHETIC.json
+python3 revenue_analysis.py monthly_revenue.csv --output analysis_output.json
 ```
 
-The demo data are fictional and do not represent Florihana. See `validation_notes.md` for checks against the actual supplied screenshot. The private company CSV is not distributed. To analyze authorized real data, supply a CSV with the same column schema. No advertising-data analysis is implemented because campaign exports were not supplied.
+Provide a CSV with columns `month,total_revenue,online_revenue,hsinchu_revenue`. The private source CSV is not distributed, so this repository cannot be run end to end without authorized input. See `validation_notes.md` for results checked against the supplied revenue screenshot. No advertising-data analysis is implemented because campaign exports were not supplied.
